@@ -197,9 +197,25 @@ https://www.cnblogs.com/waj6511988/p/7027127.html
 https://www.cnblogs.com/knowledgesea/p/3667395.html
 
 
+* 索引类别，索引的原理
+https://blog.csdn.net/timer_gao/article/details/78013826
 
+* 为什么MySQL数据库索引选择使用B+树？
+https://www.cnblogs.com/tiancai/p/9024351.html
 
+* B树与B+树
+https://blog.csdn.net/guoziqing506/article/details/64122287
 
+* 索引失效原因总结
+https://www.cnblogs.com/heiming/p/5871230.html
+
+## 开源框架和容器
+
+* 转发与重定向的区别
+
+https://blog.csdn.net/u012877472/article/details/50804568
+
+* 
 
 
 
