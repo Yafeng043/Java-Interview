@@ -165,7 +165,67 @@ https://www.cnblogs.com/dolphin0520/p/3919839.html
 接口隔离原则(Interface  Segregation Principle, ISP)：使用多个专门的接口，而不使用单一的总接口，即客户端不应该依赖那些它不需要的接口.
  在使用接口隔离原则时，我们需要注意控制接口的粒度，接口不能太小，如果太小会导致系统中接口泛滥，不利于维护；接口也不能太大，太大的接口将违背接口隔离原则，灵活性较差，使用起来很不方便。一般而言，接口中仅包含为某一类用户定制的方法即可，不应该强迫客户依赖于那些它们不用的方法。
 
+迪米特法则(Law of  Demeter, LoD)：一个软件实体应当尽可能少地与其他实体发生相互作用。迪米特法则又称为最少知识原则(LeastKnowledge Principle, LKP)
 迪米特法则(Law of  Demeter, LoD)：一个软件实体应当尽可能少地与其他实体发生相互作用。
+
+* 设计模式适用场景整理
+https://blog.csdn.net/qq_34244317/article/details/77808913
+
+* spring用到了哪些设计模式
+https://www.cnblogs.com/yuefan/p/3763898.html
+
+* MyBatis用到了哪些设计模式
+
+## 网络/IO基础
+* BIO与NIO、AIO的区别
+https://blog.csdn.net/skiof007/article/details/52873421
+https://www.cnblogs.com/ygj0930/p/6543960.html
+
+
+## 数据存储于消息队列
+
+* MySQL索引使用的注意事项
+* 事务的隔离级别（Read uncommitted 、Read committed 、Repeatable read 、Serializable ）
+https://blog.csdn.net/qq_33290787/article/details/51924963
+
+大多数数据库默认的事务隔离级别是Read committed，比如Sql Server , Oracle。Mysql的默认隔离级别是Repeatable read。
+
+* 脏读、幻读、不可重复读
+* 数据库的几大范式
+其实就是设计表的原则
+https://www.cnblogs.com/waj6511988/p/7027127.html
+https://www.cnblogs.com/knowledgesea/p/3667395.html
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
