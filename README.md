@@ -215,11 +215,31 @@ https://www.cnblogs.com/heiming/p/5871230.html
 
 https://blog.csdn.net/u012877472/article/details/50804568
 
-* 
+## 微服务
+* 如何理解RESTful的幂等性
 
 
+## 性能优化
+* 性能指标有哪些？
+> 1、吞吐量
+2、并发数量
+3、思考时间
+4、响应时间
+5、点击数
+6、性能计数器
+7、资源利用率
+8、网络吞吐量
+9、错误率
+10、系统稳定性
 
+重要：https://blog.csdn.net/lykangjia/article/details/60578805
 
+https://blog.csdn.net/Tongdingsidong/article/details/73741251
+
+* 如何发现性能瓶颈？
+https://blog.csdn.net/shan9liang/article/details/24035001
+
+* 性能调优的常见手段
 
 
 
